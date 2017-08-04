@@ -1,7 +1,11 @@
 {
   "name": "depver",
   "version": "1.0.0",
-  "description": "",
+  "description": "a utility for checking node_modules dependency versions",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:js-n/depver.git"
+  },
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
